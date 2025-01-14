@@ -1,3 +1,5 @@
+<h2>CodSoft-Internship-Tasks</h2>
+
 <b>1. Titanic Survival Prediction</b>
 - This project involves building a machine learning model to predict the survival of passengers on the Titanic based on features like age, gender, ticket class, and fare.
 - It focuses on data analysis, feature engineering, and model evaluation, making it a classic beginner-friendly data science project.
